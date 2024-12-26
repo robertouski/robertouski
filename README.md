@@ -33,6 +33,9 @@ Roberto Moncayo</a></h1>
 
 - 📫 How to reach me **rmoncayoandrade@gmail.com**
 
+- ![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png)  How to reach me: [![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png) LinkedIn - @robertomoncayo](https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/)
+
+
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technical Skills 🛠  </h3>
 
@@ -52,10 +55,10 @@ Roberto Moncayo</a></h1>
 </p>
 
 <h3>Statistical Data:</h3>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertouski&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=robertouski&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adam-pw" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertouski&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Most Used Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=robertouski&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats"></td>
+  </tr>
+</table>
 
