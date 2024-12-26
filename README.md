@@ -12,13 +12,15 @@ Roberto Moncayo</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://outlier.ai/" target="blank">Outlier</a>
+- 🔭 I’m currently part-time working in <a href="https://outlier.ai/" target="blank">Outlier</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on AI Training Coding Expert.
+
+- 🛠️ My main responsibilities involve reviewing, refining, and updating code to help train AI models. 
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 **The Eternal Learner:** Always on the journey of learning.
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
