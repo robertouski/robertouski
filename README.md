@@ -16,15 +16,13 @@ Roberto Moncayo</a></h1>
 
 - 🌱 I’m currently Working on AI Training Coding Expert.
 
-- 🛠️ My main responsibilities involve reviewing, refining, and updating code to help train AI models. 
+- 🛠️ Refining code to train cutting-edge AI models. 
 
 - 🤝 I’m available for freelancing.
 
 - 🌱 **The Eternal Learner:** Always on the journey of learning.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **React.js, Node.js, and AI integrations**.
+- 💬 Ask me about ** Node.js, and AI integrations**.
 
 - 📫 How to reach me **rmoncayoandrade@gmail.com**
 
@@ -46,8 +44,3 @@ Roberto Moncayo</a></h1>
         <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" style="width:40px; height:40px;">
     </div>
 </p>
-### 🤝 Connect with Me
-
-[![LinkedIn Badge](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/)
-[![GitHub Badge](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/robertouski)
-
