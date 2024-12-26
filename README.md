@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/" target="_blank" rel="noopener noreferrer">
 Roberto Moncayo</a></h1>
-<h3 align="center">A passionate Backend and Data Analist Developer from Ecuador 🇪🇨 </h3>
+
+<h3 align="center">A Passionate Fullstack and Backend Developer from Ecuador 🇪🇨 </h3>
+<h3 align="center">Skilled in automating business operations and integrating AI technologies to streamline processes and enhance user interaction 🛠️🤖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,7 +12,7 @@ Roberto Moncayo</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://outlier.ai/" target="blank">Outlier</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
@@ -20,48 +22,30 @@ Roberto Moncayo</a></h1>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **React.js, Node.js, and AI integrations**.
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **rmoncayoandrade@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technical Skills 🛠  </h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+    <div align="center" class="icons-social" style="margin-left: 10px;">
+        <!-- Habilidades -->
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/plasticine/100/000000/react.png" title="React" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" style="width:40px; height:40px;">
+        <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" style="width:40px; height:40px;">
+    </div>
 </p>
+### 🤝 Connect with Me
 
-### Blogs posts
+[![LinkedIn Badge](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/)
+[![GitHub Badge](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/robertouski)
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
