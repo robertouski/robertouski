@@ -33,7 +33,7 @@ Roberto Moncayo</a></h1>
 
 - 📫 How to reach me **rmoncayoandrade@gmail.com**
 
-- ![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png)  How to reach me: [![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png) LinkedIn - @robertomoncayo](https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/)
+- ![LinkedIn](https://img.icons8.com/color/16/000000/linkedin.png)  How to reach me: [@robertomoncayo](https://www.linkedin.com/in/roberto-moncayo-andrade-822468213/)
 
 
 <br/>
